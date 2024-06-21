@@ -33,4 +33,8 @@
 ### :mortar_board: Alura :100:
 ### :mortar_board: Oracle :100:
 
+
+
+![badge literalura](https://github.com/laam77/literalura-challege/assets/159087448/6932241c-6920-4e3d-bc56-a1be1b153379)
+
  
